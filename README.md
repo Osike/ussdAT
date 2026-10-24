@@ -20,7 +20,7 @@ A simple USSD application built with Python, Flask, and the Africa's Talking San
 - Africa's Talking Sandbox
 - ngrok
 - Africa's Talking USSD Simulator
-
+yes
 ## How It Works
 
 The application receives USSD requests through a Flask endpoint. Africa's Talking sends user input to the configured callback URL, and the application returns a response that determines whether the session continues or ends.
